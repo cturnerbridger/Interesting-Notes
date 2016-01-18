@@ -7,5 +7,5 @@ To experiment with the gtrendsR package I am going to examine the popularity of 
 
 Here is my code in R:
 ```R
-
+setwd(~/Desktop)
 ```
